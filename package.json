@@ -1,0 +1,12 @@
+{
+  "name": "lacture_4",
+  "version": "1.0.0",
+  "description": "Arrays",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayaz Ali",
+  "license": "ISC"
+}
